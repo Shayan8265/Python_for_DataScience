@@ -1,0 +1,9 @@
+
+Student-ID: 100
+
+Maximum of row means : 245.268293
+Index at maximum     :  30
+
+Minimum of row means : 79.682927
+Index at minimum     :  15
+

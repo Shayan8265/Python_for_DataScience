@@ -1,0 +1,11 @@
+Number of data gaps: 8
+
+Data gaps are at the following times:
+11.11,NaN
+11.30,NaN
+11.40,NaN
+11.42,NaN
+11.43,NaN
+11.50,NaN
+11.54,NaN
+11.59,NaN

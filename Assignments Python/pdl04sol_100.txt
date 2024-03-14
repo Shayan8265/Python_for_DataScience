@@ -1,0 +1,15 @@
+
+Student-ID: 100
+
+Station A, annual mean: 290.611
+Station B, annual mean: 290.326
+Station C, annual mean: 290.764
+
+Station A, number of maxima: 135
+Station B, number of maxima:  92
+Station C, number of maxima: 138
+
+Station A, number of minima: 131
+Station B, number of minima: 108
+Station C, number of minima: 126
+
